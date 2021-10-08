@@ -1,0 +1,2 @@
+# codenok
+CODE_NOK
